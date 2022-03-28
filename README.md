@@ -15,9 +15,14 @@ How to use:
 Notes: 
 - max_reflections in the main program can be increased to simulate more reflections of the lasers.
 - screen_width and screen_height can be adjusted in the main program.
-- other elements can be reconfigured from their default object attributes.
+- Other elements can be reconfigured from their default object attributes.
 
 Libraries required:
 - Math
 - pygame
 - time
+
+Future updates:
+- Add the functionality to rotate the laser pointers.
+- Check that environment is not malformed.
+- Add check for reflecting off of corners.
